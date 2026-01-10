@@ -1,5 +1,5 @@
 author: Julia Beck and Neeraj Jain
-id: create-a-document-processing-pipeline-with-ai-extract
+id: test
 language: en
 summary: Learn how to create an automated document processing pipeline using AI_EXTRACT to extract structured data from documents.
 categories: snowflake-site:taxonomy/product/ai, snowflake-site:taxonomy/snowflake-feature/unstructured-data-analysis, snowflake-site:taxonomy/snowflake-feature/cortex-llm-functions
