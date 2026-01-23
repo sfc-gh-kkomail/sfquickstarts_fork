@@ -1,3 +1,0 @@
-snowflake-ingest-sdk.jar --> v4.0.0
-snowflake-jdbc.jar --> 3.23.2
-jaxb-api.jar --> 2.3.1
