@@ -9,7 +9,9 @@ authors: Dash Desai
 
 
 # AI Video Search with Snowflake and Twelve Labs
-<!-- ------------------------ -->
+
+
+
 
 ## Overview
 
